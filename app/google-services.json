@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "880826701864",
+    "project_id": "studentdirectoryfb",
+    "storage_bucket": "studentdirectoryfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880826701864:android:872876cd5b3199d4d03d1d",
+        "android_client_info": {
+          "package_name": "com.example.studentdirectoryfb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzMaTQI7lL_1TfIfDf1tHCWGAx_X6PLx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
